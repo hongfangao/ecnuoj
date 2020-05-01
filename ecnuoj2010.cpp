@@ -34,5 +34,5 @@ int main()
     {
         draw(N);
     }
-    
+    return 0;
 }
